@@ -1,0 +1,6 @@
+.idea/*
+cmake-build-debug/*
+chat
+ChatApp.o
+main.o
+CMakeLists.txt
